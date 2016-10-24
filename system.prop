@@ -7,3 +7,6 @@ rild.libargs=-d /dev/ttyS0
 
 # By default, primary storage is physical
 ro.vold.primary_physical=1
+
+# Stagefright
+media.stagefright.legacyencoder=true
